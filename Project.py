@@ -14,7 +14,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/06/World-map-wallpaper-HD-download.jpg?id=75");
+             background-image: url("https://www.archiemedia.it/wp-content/uploads/2015/01/world_map.jpeg?id=75");
              background-attachment: fixed;
 	     #background-position: 25% 75%;
              background-size: cover
